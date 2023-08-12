@@ -1,0 +1,40 @@
+
+.map{
+    display:flex;
+    justify-content: center;
+    margin-top: 4%;
+}
+iframe{
+    width: 100%!important;
+}
+.contact-header{
+    text-align: center;
+    margin-top: 2%;
+}
+.cd-logo{
+      background: lightblue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.navbar{
+    background-color:#f0f8ffb8!important;
+}
+.nav-item{
+    color: black;
+}
+.bg{
+    background-color: #faebd70d;
+    
+}
+body{
+    background-color: #80808047;
+}
+@media (max-width:992px){
+    .logo{
+        margin:0 auto;
+    }  
+    .navbar{
+        align-items: center;
+    }  
+}
